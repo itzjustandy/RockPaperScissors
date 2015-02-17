@@ -44,7 +44,8 @@ while True:
 
     if (Computer == "Rock" and User == "Scissors") or (Computer == "Paper" and User == "Rock") or (Computer == "Scissors" and User == "Paper"):
         Lose += 1
-        messagebox.showinfo("
+        messagebox.showinfo("Wow. You got beat by an AI")
+    
         
                                                        
     
